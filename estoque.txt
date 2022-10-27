@@ -1,0 +1,2 @@
+kaue|3.50|frutas|2
+teste|4|frutas|1
